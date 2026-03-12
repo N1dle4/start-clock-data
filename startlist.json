@@ -1,22 +1,6 @@
 [
-  {
-    "minute": 1,
-    "number": 101,
-    "name": "Èâàíîâ"
-  },
-  {
-    "minute": 2,
-    "number": 102,
-    "name": "Ïåòðîâ"
-  },
-  {
-    "minute": 3,
-    "number": 103,
-    "name": "Ñèäîðîâ"
-  },
-  {
-    "minute": 4,
-    "number": 104,
-    "name": "Ñìèðíîâ"
-  }
+ { "minute": 1, "number": 101, "name": "Иван" },
+ { "minute": 2, "number": 102, "name": "Петров" },
+ { "minute": 3, "number": 103, "name": "Сидоров" },
+ { "minute": 4, "number": 104, "name": "Смирнов" }
 ]
