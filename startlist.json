@@ -2,5 +2,7 @@
  { "minute": 1, "number": 101, "name": "Иван" },
  { "minute": 2, "number": 102, "name": "Петров" },
  { "minute": 3, "number": 103, "name": "Сидоров" },
- { "minute": 4, "number": 104, "name": "Смирнов" }
+ { "minute": 4, "number": 104, "name": "Смирнов" },
+ { "minute": 4, "number": 104, "name": "Смирнов"}
 ]
+
